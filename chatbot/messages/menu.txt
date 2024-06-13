@@ -1,0 +1,6 @@
+Elegi alguna de estas opciones: 
+Opcion 1 - Servicios
+Opcion 2 - Reservar turno
+Opcion 3 - Realizar consultas
+
+Opcion 0 - Salir
